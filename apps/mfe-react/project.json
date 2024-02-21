@@ -1,8 +1,0 @@
-{
-  "name": "mfe-react",
-  "$schema": "../../node_modules/nx/schemas/project-schema.json",
-  "sourceRoot": "apps/mfe-react/src",
-  "projectType": "application",
-  "targets": {},
-  "tags": []
-}
