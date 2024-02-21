@@ -2,7 +2,9 @@
   "name": "@mfe-react/source",
   "version": "0.0.0",
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+    "run:all":"nx serve shell --devRemotes=account,product"
+  },
   "private": true,
   "dependencies": {
     "react": "18.2.0",
